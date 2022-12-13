@@ -7,9 +7,11 @@
 
 ## Summary
 
-Usability, user expereince and value propostion are the main objectives we want to sovle within the project timeline. In this document, User Experience and User Interface are addressed based on a serise of analyasis, from invistgating initial problems to be solved to delivery a interactiable visual prototype that aligns with technical soluctions and user goals
+Usability, user experience and value proposition are the main objectives we want to solve within the project timeline. In this document, User Experience and User Interface are addressed based on a series of analyses, from investigating initial problems to be solved to delivering an interactive visual prototype that aligns with technical solutions and user goals.
 
-This document is submit as part of deliverable for WIKIMEDIA.CH data science project challege for OPENEDU.CH.
+This document is submitted as part of the deliverable for the WIKIMEDIA.CH data science project challenge for OPENEDU.CH.
+
+Full Project documentation and code can be seen on [OpeneduC - GitHub](https://github.com/WomenPlusPlus/deploy-impact-22-openedu-c)
 
 ## Overview
 
