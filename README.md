@@ -1,6 +1,6 @@
 
 
-# UX|UI Case Study: OPENEDU.CH
+# UX|UI Case Study: WIKIMEDIA CH Data Science Challenge for openedu.ch
 
 #### Empowering Knowledge — An open source educational platform for educators
 
