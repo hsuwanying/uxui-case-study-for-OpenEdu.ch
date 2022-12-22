@@ -20,9 +20,7 @@ Full Project documentation and code can be seen on [OpeneduC - GitHub](https://g
  - [Go to Market](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#go-to-the-market)
  - [Reflection](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#reflection)
 
-## Overview
-
-### About OPENEDU.CH
+## Overview: About OPENEDU.CH
 
 **OPENEDU.CH** s an open education resource platform launched in 2020 by the WIKIMEDIA CH organization. advocates fair education, and encourages educators to connect, collaborate and share knowledge through this platform. Through this platform, educators can benefit from accessing educational rescore on any topic, anywhere, in addition,  OPENEDU.CH also provides training services and tools upon request. To achieve a business goal, and build such a platform, a strategic business analysis and data-driven approach are needed.
 
@@ -50,11 +48,9 @@ To achieve the business goal, the Double Diamond Process Model is applied as thi
 
 #### Assessment
 
-After discussing the business goal and main requirement with the PO, we first reversed the existing website based on four criteria: design, structure, functionality and value proposition to identify initial problems.
+The current website adapted a simply design, nevertheless it is unclear who are the main audience while for visitor to understand what service or products the website offers or what benefits visitor will get through the website.  We first reversed the existing website, database and data modeling to identify initial problems for further adjustment.
 
-**current website**
-
-The current website adapted a simple design, nevertheless it is unclear who are the main audience while for visitor to understand what service or products the website offers or what benefits visitor will get through the website.
+![image](https://user-images.githubusercontent.com/72688726/207067786-d1457af5-7ad4-4a6f-ac52-ed21e11de85e.png)
 
 <img width="1336" alt="openedu-landing-page" src="https://user-images.githubusercontent.com/72688726/209140496-51ef36fb-4193-49ca-ba7b-b05874d5b341.png">
 
@@ -65,8 +61,6 @@ The three main categories that were evaluated were value proposition, usability,
 | **Value Proposition** | **Logo**: there are two logos, one is Wikipedia and one is openedu <br />**Message:** Unclear message and target users | 1. One logo <br />2. Develop content strategy that follow **5-W-Method** |
 | **Usability**         | **Filters**: filters such as topics and category have similar meaning, can confuse users <br />**Search UI**: not working <br />**Output result:** user expects to see content of the search result instead of a link to other projects | 1. Remove overlapped filters, and refine the subcategory in each filter <br />2. Refine data modelling and relationship of the existing database. |
 | **User Experience**   | **Visual**: message overloading on the heading section, too many texts, colours, and blocks  for instance: a three column cards distract users attentions <br />**Animation**: a quote block underneath the navigation bar is animated which irritate users to focus on tasks they intend to do on this website <br />**Functionality:** the filter function does not narrow down the output result but generate more contents <br />**Search result:** inconsistent output result (card) makes users hard to read through the content | 1. Eliminate texts and blocks and create sections layout to deeply information <br />2. remove redundant design <br />3. Apply design principle to optimize user experience <br />4. Prioritize and improve important features: navigation, search UI, Hero section and CTA |
-
-![image](https://user-images.githubusercontent.com/72688726/207067786-d1457af5-7ad4-4a6f-ac52-ed21e11de85e.png)
 
 #### Competivie analysis
 
