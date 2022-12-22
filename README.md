@@ -175,7 +175,14 @@ A mental model is a sort of thinking system in our brains. It guides people to r
 
 ![landingpage](https://user-images.githubusercontent.com/72688726/209140004-34521cc6-ea8e-40a5-9e69-fc6bc1daae3b.png)
 
-##### **Resource page: Use Dropdown animation in the filter feature**
+
+##### **Resource page: Vertical Filter bar, search output and recommender features**
+
+Here I use three columns grids to divide filter, search result and tags features. As the article, feature is the most important and therefore placed in the middle. 
+
+- **Vertical filter bar**: replaced the original horizontal filter. The vertical filter is composed a list of dropdown menus, and each menu is ordered by its lexicon hierarchy, which can help the user to identify the category they wish to use for filtering content.  
+- **Article card**: displays information of article. Primary information such as author/ institution, title and subject line are displayed with heavy and bold fonts. While secondary text filed such as short description, label (project type, media type, format) and update date are displays in small or light fonts. 
+- **Recommender features**: trending and recommend topics are presented with label UIs 
 
   ![img](https://lh6.googleusercontent.com/xOA2ED_VHJmRGnAjH436G8W5Zt6G23NFq54AJWLf04PC0QnlbANvcT0qjipPve8AHJWC_wZbxxKuNbI23kOrFrzN97tMB9cPfOHOtxBN8C9N6X0sUzQN9dwPnf6PxFmya_mz-_SwpAgcOCs4RXFhoduKJC3rQf8aJ4lCHVckbIkzFehruBlTz4n-oRT9kWyk)
 
