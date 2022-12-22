@@ -13,6 +13,13 @@ This document is submitted as part of the deliverable for the WIKIMEDIA.CH data 
 
 Full Project documentation and code can be seen on [OpeneduC - GitHub](https://github.com/WomenPlusPlus/deploy-impact-22-openedu-c)
 
+## Table of Content
+ - Overview
+ - Process
+ - Result
+ - Go to Market
+ - Reflection
+
 ## Overview
 
 ### About OPENEDU.CH
@@ -195,7 +202,7 @@ We make the uploading form simpler and divide the process into four steps, to ma
 ![Completed](https://user-images.githubusercontent.com/72688726/207071452-7b0e98a9-0eab-4479-b46b-d25caedb5e74.png)
 ![Thank you](https://user-images.githubusercontent.com/72688726/207071500-23346995-d1fe-4c75-9007-5823f3ba534c.png)
 
-## Result: Interactive Website Prototype 
+## Result(Delivery): Interactive Website Prototype 
 
 A landing page and resource page are created in Figma. In addition, three interactive features can be tested in this website prototype:
 
