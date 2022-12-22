@@ -16,7 +16,7 @@ Full Project documentation and code can be seen on [OpeneduC - GitHub](https://g
 ## Table of Content
  - [Overview](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#overview)
  - [The Process](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#the-process)
- - [Result](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#result)
+ - [Result](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#resultdelivery-interactive-website-prototype)
  - [Go to Market](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#go-to-the-market)
  - [Reflection](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#reflection)
 
