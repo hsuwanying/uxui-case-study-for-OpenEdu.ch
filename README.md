@@ -20,7 +20,7 @@ Full Project documentation and code can be seen on [OpeneduC - GitHub](https://g
 **OPENEDU.CH** s an open education resource platform launched in 2020 by the WIKIMEDIA CH organization. advocates fair education, and encourages educators to connect, collaborate and share knowledge through this platform. Through this platform, educators can benefit from accessing educational rescore on any topic, anywhere, in addition,  OPENEDU.CH also provides training services and tools upon request. To achieve a business goal, and build such a platform, a strategic business analysis and data-driven approach are needed.
 
 
-### The Process
+## The Process
 
 To achieve the business goal, the Double Diamond Process Model is applied as this model is not only focused on design elements but taking a holistic view to design a system that can be run technically and visually. The Double Diamond Process Model consists of four phases as follows:
 
@@ -39,15 +39,15 @@ To achieve the business goal, the Double Diamond Process Model is applied as thi
   - Visual Prototype: redesign landing page, result search page and upload form
 
 
-## Discover
+### Discover
 
-### Assessment
+#### Assessment
 
 After discussing the business goal and main requirement with the PO, we first reversed the existing website based on four criteria: design, structure, functionality and value proposition to identify initial problems.
 
 **current website**
 
-The current website adapted a simply design, nevertheless it is unclear who are the main audience while for visitor to understand what service or products the website offers or what benefits visitor will get through the website. 
+The current website adapted a simple design, nevertheless it is unclear who are the main audience while for visitor to understand what service or products the website offers or what benefits visitor will get through the website.
 
 <img width="1336" alt="openedu-landing-page" src="https://user-images.githubusercontent.com/72688726/209140496-51ef36fb-4193-49ca-ba7b-b05874d5b341.png">
 
@@ -61,18 +61,18 @@ The three main categories that were evaluated were value proposition, usability,
 
 ![image](https://user-images.githubusercontent.com/72688726/207067786-d1457af5-7ad4-4a6f-ac52-ed21e11de85e.png)
 
-### Competivie analysis
+#### Competivie analysis
 
 **Open Education Resource(OER)**:Medium, Google Scholar, MIT, Oercommons, BC campus and Europeana are chosen for benchmarking due to the platform type, content, and service they offer are very alike to OPENEDU.CH. Based on these five main criteria: information architecture, navigation, search function, filters and search results, we can further refine the OPENEDU Website.
 ![image](https://user-images.githubusercontent.com/72688726/207068756-b54f47df-fbd8-42a1-952d-ec6afb40e043.png)
 
-### Persona
+#### Persona
 
 In addition, we also create 2 personas to get a better understanding how what OPENEDU.CH's users probably look like and be able to come up with better solutions to tackle their problems
 
 <img width="964" alt="Screenshot 2022-12-22 at 11 15 04" src="https://user-images.githubusercontent.com/72688726/209140636-5251696c-eea9-48e1-b59a-e248a7c152f7.png">
 
-### **User Jounrey**
+#### **User Jounrey**
 
 A user journey includes needs recognition, exploration, evaluation, decision making and post behaviour. The diagram map out critical touchpoints, actions and emotion of the target personas
 
@@ -97,10 +97,7 @@ journey
       student feedback: 5
       
 ```
-
-
-
-### User Interview
+#### User Interview
 
 After completing the above analysis, key findings are extracted and formed five key subjects that we would like to further investigate through user interviews. The subjects are:
 
@@ -113,7 +110,6 @@ After completing the above analysis, key findings are extracted and formed five 
 4. **Expectation**: What product/ service do you expect to see on an educational resource platform
 
 5. **User Engagement**: What is the motivation for engaging with other users on an educational resource platform
-
 
 
 These five questions are further elaborated into eight subquestions. To improve the usability and user experience of the current site, user testing was also given at the end of the interview.
@@ -130,7 +126,6 @@ These five questions are further elaborated into eight subquestions. To improve 
 |                                                              | **Motivation**<br />**User Engagement**  | How would you like to interact with other educators?         |
 
 
-
 We conducted user interviews with 5 potential users (one internal and 4 external users.
 
 - 90 % of the Users search bar to start their search on the majority platform
@@ -138,13 +133,11 @@ We conducted user interviews with 5 potential users (one internal and 4 external
 - Having clear instructions and guidance would help the user to complete the uploading process
 - Users wish to get in touch with other teachers and connect in a simple, easy way
 
-
-
-## Define
+### Define
 
 We collected ideas from team brainstorming, user interview and competitive analysis, and we finally selected the most prominent features which are: **Search UI**, **Filters**, **Uploading Form**, and **Redesign Landing page** that is aligned with solutions from our technical team, and be able to visualize in the final prototype
 
-## Develop
+### Develop
 
 At this stage, we compared potential solutions and selected the most reasonable ideas to develop and listed in the table below:
 
@@ -157,24 +150,22 @@ At this stage, we compared potential solutions and selected the most reasonable 
 
 
 
-### User Flow
+#### User Flow
 
 After we define the key features, I designed the user flow of the search and file uploading process.
 
 ![image](https://user-images.githubusercontent.com/72688726/207067229-8a9b996f-a0a3-49c3-9f7d-e46c897bfca4.png)
 
 
-## Prototype
+#### Design
 
-In the design phase, we implemented the Mental model and design principle to reduce the cognitive loading on the web page by optimizing users' pleasant experiences that can help them easily navigate the website.
-
-### **Mental Model**
+In the design phase, we implemented the ***Mental model*** and ***design principle*** to reduce the cognitive loading on the web page by optimizing users' pleasant experiences that can help them easily navigate the website.
 
 A mental model is a sort of thinking system in our brains. It guides people to react and interact with something based on what people see and what they believe in their thinking system. Users expect what they believe and will interact with a product and service they have experienced before. Therefore, making the website similar to its competitor can help users easily navigate the site without hesitating.
 
-### UI Redesign
+#### UI Redesign
 
-- **Landing page**
+##### **Landing page**
   - Landing page
   - Core message: a short and powerful slogan tell users Who we are, what we do and what service and products offer on this site
   - Enlarge Search UI: make the search bar visible
@@ -183,19 +174,19 @@ A mental model is a sort of thinking system in our brains. It guides people to r
 
 ![landingpage](https://user-images.githubusercontent.com/72688726/209140004-34521cc6-ea8e-40a5-9e69-fc6bc1daae3b.png)
 
-- **Resource page: Use Dropdown animation in the filter feature**
+##### **Resource page: Use Dropdown animation in the filter feature**
 
   ![img](https://lh6.googleusercontent.com/xOA2ED_VHJmRGnAjH436G8W5Zt6G23NFq54AJWLf04PC0QnlbANvcT0qjipPve8AHJWC_wZbxxKuNbI23kOrFrzN97tMB9cPfOHOtxBN8C9N6X0sUzQN9dwPnf6PxFmya_mz-_SwpAgcOCs4RXFhoduKJC3rQf8aJ4lCHVckbIkzFehruBlTz4n-oRT9kWyk)
 
 
-- **Sign up pages**
+##### **Sign up pages**
 
 On the sign-up page, we want to collect more user basic information, not just their name and email. However, to make the user feel comfortable and share their information with us, we implemented some tags and a drop-down menu to help users to fill out their information in a simple way. 
 ![user profile](https://user-images.githubusercontent.com/72688726/207071188-f9adae3f-22e1-4dc1-a97c-adb97ca71a67.png)
 ![edit file](https://user-images.githubusercontent.com/72688726/207071176-2fafe50a-f164-4a9d-9ed8-80c4d4371a9a.png)
 ![completed](https://user-images.githubusercontent.com/72688726/207071202-60b54816-1fe3-4c5c-9893-f5fd8a0fe788.png)
 
-- **Uploading Pages**
+##### **Uploading Pages**
 
 We make the uploading form simpler and divide the process into four steps, to make the user informed and know which section they are in and be able to estimate how much time they need to complete this task.
 
@@ -204,7 +195,7 @@ We make the uploading form simpler and divide the process into four steps, to ma
 ![Completed](https://user-images.githubusercontent.com/72688726/207071452-7b0e98a9-0eab-4479-b46b-d25caedb5e74.png)
 ![Thank you](https://user-images.githubusercontent.com/72688726/207071500-23346995-d1fe-4c75-9007-5823f3ba534c.png)
 
-### Result: Interactive Website Prototype 
+## Result: Interactive Website Prototype 
 
 A landing page and resource page are created in Figma. In addition, three interactive features can be tested in this website prototype:
 
