@@ -14,11 +14,11 @@ This document is submitted as part of the deliverable for the WIKIMEDIA.CH data 
 Full Project documentation and code can be seen on [OpeneduC - GitHub](https://github.com/WomenPlusPlus/deploy-impact-22-openedu-c)
 
 ## Table of Content
- - Overview
- - Process
- - Result
- - Go to Market
- - Reflection
+ - [Overview](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#overview)
+ - [The Process](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#the-process)
+ - [Result](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#result)
+ - [Go to Market](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#go-to-the-market)
+ - [Reflection](https://github.com/hsuwanying/uxui-case-study-for-OpenEdu.ch#reflection)
 
 ## Overview
 
