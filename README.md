@@ -41,10 +41,23 @@ To achieve the business goal, the Double Diamond Process Model is applied as thi
 
 ## Discover
 
-
-### Assesment
+### Assessment
 
 After discussing the business goal and main requirement with the PO, we first reversed the existing website based on four criteria: design, structure, functionality and value proposition to identify initial problems.
+
+**current website**
+
+The current website adapted a simply design, nevertheless it is unclear who are the main audience while for visitor to understand what service or products the website offers or what benefits visitor will get through the website. 
+
+<img width="1336" alt="openedu-landing-page" src="https://user-images.githubusercontent.com/72688726/209140496-51ef36fb-4193-49ca-ba7b-b05874d5b341.png">
+
+The three main categories that were evaluated were value proposition, usability, and user experience. Initial issues and corresponding improvements are described in the table below.
+
+| Category              | Problems                                                     | Improvement                                                  |
+| --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Value Proposition** | **Logo**: there are two logos, one is Wikipedia and one is openedu <br />**Message:** Unclear message and target users | 1. One logo <br />2. Develop content strategy that follow **5-W-Method** |
+| **Usability**         | **Filters**: filters such as topics and category have similar meaning, can confuse users <br />**Search UI**: not working <br />**Output result:** user expects to see content of the search result instead of a link to other projects | 1. Remove overlapped filters, and refine the subcategory in each filter <br />2. Refine data modelling and relationship of the existing database. |
+| **User Experience**   | **Visual**: message overloading on the heading section, too many texts, colours, and blocks  for instance: a three column cards distract users attentions <br />**Animation**: a quote block underneath the navigation bar is animated which irritate users to focus on tasks they intend to do on this website <br />**Functionality:** the filter function does not narrow down the output result but generate more contents <br />**Search result:** inconsistent output result (card) makes users hard to read through the content | 1. Eliminate texts and blocks and create sections layout to deeply information <br />2. remove redundant design <br />3. Apply design principle to optimize user experience <br />4. Prioritize and improve important features: navigation, search UI, Hero section and CTA |
 
 ![image](https://user-images.githubusercontent.com/72688726/207067786-d1457af5-7ad4-4a6f-ac52-ed21e11de85e.png)
 
@@ -57,9 +70,7 @@ After discussing the business goal and main requirement with the PO, we first re
 
 In addition, we also create 2 personas to get a better understanding how what OPENEDU.CH's users probably look like and be able to come up with better solutions to tackle their problems
 
-![img](https://lh4.googleusercontent.com/tvXnuDZW4je6-bG2Kk14wi_B7XNsdMcjJaUXIDHRrtR11v0ajQM5rHymm2g7hwgfXn3LzHA7xWVOTQ8OpZl9hC-eSGM2snHv_ww2bop0_QAl2i3RABl_CnzO7BxmsVkOuNz7T6AxqmTUaw6IrmcMMOxgRfcL6LBRCVEspUgslQ8LYZGYZSFXMOo8PwC1HRvC)
-
-
+<img width="964" alt="Screenshot 2022-12-22 at 11 15 04" src="https://user-images.githubusercontent.com/72688726/209140636-5251696c-eea9-48e1-b59a-e248a7c152f7.png">
 
 ### **User Jounrey**
 
@@ -150,7 +161,6 @@ At this stage, we compared potential solutions and selected the most reasonable 
 
 After we define the key features, I designed the user flow of the search and file uploading process.
 
-
 ![image](https://user-images.githubusercontent.com/72688726/207067229-8a9b996f-a0a3-49c3-9f7d-e46c897bfca4.png)
 
 
@@ -171,7 +181,7 @@ A mental model is a sort of thinking system in our brains. It guides people to r
   - CTA button: invite people to sign up and explore the site
   - visiable navigation: make the navigation visible to users without opening the hamburger menu 
 
-![landingpage](https://user-images.githubusercontent.com/72688726/207073836-b3c91e87-587b-4f64-8507-38c7d0532e58.png)
+![landingpage](https://user-images.githubusercontent.com/72688726/209140004-34521cc6-ea8e-40a5-9e69-fc6bc1daae3b.png)
 
 - **Resource page: Use Dropdown animation in the filter feature**
 
